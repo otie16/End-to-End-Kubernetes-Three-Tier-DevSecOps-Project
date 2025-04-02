@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: three-tier.local
+    - host: otobong.chickenkiller.com
       http:
         paths:
           - path: /api
